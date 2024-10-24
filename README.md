@@ -38,7 +38,7 @@ The dataset contains labeled images of waste classified into the three categorie
 
 You can find the dataset used for this project at the following link:
 
-[Dataset Link](#)
+[Dataset Link](#https://www.kaggle.com/datasets/sapal6/waste-classification-data-v2)
 
 ## Training Process
 
