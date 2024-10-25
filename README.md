@@ -10,7 +10,6 @@ This project employs various machine learning models to classify waste into thre
 - [Results](#results)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
